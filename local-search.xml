@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>导数的取点问题</title>
+    <link href="/2022/08/02/%E5%AF%BC%E6%95%B0%E7%9A%84%E5%8F%96%E7%82%B9%E9%97%AE%E9%A2%98/"/>
+    <url>/2022/08/02/%E5%AF%BC%E6%95%B0%E7%9A%84%E5%8F%96%E7%82%B9%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h2 id="超越函数和幂函数组合函数的找点"><a href="#超越函数和幂函数组合函数的找点" class="headerlink" title="超越函数和幂函数组合函数的找点"></a>超越函数和幂函数组合函数的找点</h2><p>22.已知函数$f(x)&#x3D;(\ln x)^2+a(x+\frac{1}{x})$</p><p>(1)当$a&#x3D;1$时，求$f(x)$的单调区间</p><p>(2)若$f(x)$有三个极值点$x_1,x_2,x_3(x_1&lt;x_2&lt;x_3)$</p><p>​(i)求实数$a$的取值范围</p><p>​(ii)证明：$x_1x_2x_3$为定值</p><p>第一问直接求导研究分子，注意<strong>对数单身狗</strong>的处理</p><p>(2)(i)仍然使用第一问中的思路，研究分子$g(x)&#x3D;(\ln x)^2+ax-\frac{a}{x}$的零点</p><p>​    (ii)<strong>对数与一次、分式型函数混合问题</strong>的一个性质，<strong>探究$f(x)$与$f(\frac{1}{x})$的关系</strong></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
